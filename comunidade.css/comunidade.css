@@ -1,0 +1,144 @@
+.luis_comunidade{
+    position: absolute;
+    width: 1650px;
+    height: 770px;
+    left: 0px;
+    top: 0px;
+
+    background: linear-gradient(0deg, rgba(241, 246, 253, 0) 1.63%, #F1F6FD 20.5%, #F1F6FD 60.57%, #FFFFFF 100%);
+
+}
+
+.Comunitee {
+    display: flex;
+    justify-content: center;
+    color: #217BF4;
+}
+
+.feature {
+    display: flex;
+    justify-content: center;
+}
+
+.thewiseman {
+    display: flex;
+    justify-content: center;
+    color: #656464;
+}
+
+.tothis {
+    display: flex;
+    justify-content: center;
+    color: #656464;
+}
+
+.quadradobranco1 {
+    position: absolute;
+    width: 522px;
+    height: 182px;
+    left: 176px;
+    top: 262px;
+
+    background: #FFFFFF;
+    box-shadow: 14px 22px 52px -12px rgba(127, 127, 127, 0.13);
+    border-radius: 14px;
+}
+
+.menbfriend {
+    position: absolute;
+    width: 209px;
+    height: 26px;
+    left: 130px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    /* identical to box height, or 108% */
+    color: #2F2C4A;
+}
+
+.menbfriend2 {
+    position: absolute;
+    width: 315px;
+    height: 26px;
+    left: 130px;
+    top: 90px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+
+    color: #656464;
+}
+
+.imgmenber {
+    position: absolute;
+    height: 100px;
+    left: 10px;
+    top: 30px;
+}
+
+.quadradobranco2 {
+
+    position: absolute;
+    width: 522px;
+    height: 182px;
+    left: 950px;
+    top: 262px;
+
+    background: #FFFFFF;
+    box-shadow: 14px 22px 52px -12px rgba(127, 127, 127, 0.13);
+    border-radius: 14px;
+}
+
+.group {
+    position: absolute;
+    width: 85px;
+    height: 26px;
+    left: 130px;
+    top: 50px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 26px;
+    /* identical to box height, or 108% */
+
+
+    color: #2F2C4A;
+}
+
+.group2 {
+    position: absolute;
+    width: 315px;
+    height: 52px;
+    left: 130px;
+    top: 90px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+
+
+    color: #656464;
+}
+
+.imggroup{
+
+    position: absolute;
+    height: 100px;
+    left: 10px;
+    top: 30px;
+
+}
