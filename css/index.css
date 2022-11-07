@@ -1,3 +1,97 @@
+
+/* reset */
+
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+
+/* ------- */
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #217bf4;
+}
+
+.latest_news {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.latest_news > div {
+    position: absolute;
+    top: 130px;
+    left: 650px;
+}
+
+.latest_news > div > h1 {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 36px;
+    color: #0A093D;
+    margin-top: 10px;
+    margin-bottom: 74px;
+}
+
+.latest_news > div > a {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 18px;
+    margin-top: 190px;
+    position: relative;
+    left: 35 px;
+}
+
+
+.artigo_noticias {
+    position: relative;
+    top: 268px;
+}
+
+.artigo_noticias > img {
+    border-radius: 20px;
+    width: 347px;
+    height: 363px;
+}
+
+.artigo_noticias > div {
+    background-color: #FFAF2E;
+    width: 40px;
+    height: 2px;
+    position: relative;
+    top: 33px;
+    left: 15px;
+}
+
+.artigo_noticias > h2 {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 32px;
+    color: #2F2C4A;
+    position: relative;
+    top: 12px;
+    left: 70px;
+}
+
+.artigo_noticias > a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 16px;
+    position: relative;
+    top: 40px;
+    left: 70px;
+}
 .luis_comunidade {
     position: absolute;
     width: 1330px;
@@ -763,3 +857,4 @@
     top: -20px;
 
 }
+
